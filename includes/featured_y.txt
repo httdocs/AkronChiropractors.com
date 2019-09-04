@@ -1,0 +1,43 @@
+<div class="darkbartable"><div ID="h1text";>Featured in or near <?php include("custom/text_files/1.txt"); ?>, <?php include("custom/text_files/3.txt"); ?></div></div>
+<div class="fulltable">
+	<div class="table-3">
+   <div class="table-row-3">
+      <div class="table-cell-3a">
+<?php
+clearstatcache();
+$fs_1b = filesize("custom/text_files/fs_1b.txt");
+if ($fs_1b > 0) {
+include 'includes/fs_1_content.txt';
+}
+include 'includes/null.txt';
+?>
+<?php
+clearstatcache();
+$fs_2b = filesize("custom/text_files/fs_2b.txt");
+if ($fs_2b > 0) {
+include 'includes/fs_2_content.txt';
+}
+include 'includes/null.txt';
+?>
+      </div>
+      <div class="table-cell-3b">
+<?php
+clearstatcache();
+$fs_3b = filesize("custom/text_files/fs_3b.txt");
+if ($fs_3b > 0) {
+include 'includes/fs_3_content.txt';
+}
+include 'includes/null.txt';
+?>
+<?php
+clearstatcache();
+$fs_4b = filesize("custom/text_files/fs_4b.txt");
+if ($fs_4b > 0) {
+include 'includes/fs_4_content.txt';
+}
+include 'includes/null.txt';
+?>
+</div>
+</div>
+</div>
+</div>

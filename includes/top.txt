@@ -1,0 +1,22 @@
+	<div ID="top">
+	<div ID="top2">
+<h1 class="notext"><?php include("custom/text_files/homeh1.txt"); ?> <?php include("custom/text_files/1.txt"); ?>, <?php include("custom/text_files/3.txt"); ?></h1>
+<div ID="h1text"><strong><?php include("custom/text_files/homeh1.txt"); ?> <?php include("custom/text_files/1.txt"); ?>, <?php include("custom/text_files/3.txt"); ?></strong></div>
+<div class="table-1">
+   <div class="table-row-1">
+      <div class="table-cell-1a">
+      	<!-- the player -->
+   <div class="flowplayer is-splash" style="background:#777 url(video/splash.jpg) no-repeat; vertical-align:-25px;">
+      <video>
+      <source type="video/mp4" src="video/video.mp4">
+      </video>
+   </div>
+   </div>
+      <div class="table-cell-1b">
+      	<a href="MustKnowGuide.pdf"><img class="noborder" alt="" height="230" src="images/bookcover.png" width="240" /></a><br />
+			<a href="MustKnowGuide.pdf"><img class="noborder" alt="" height="42" src="colors/<?php include 'custom/text_files/10.txt'; ?>/instantdownload.png" width="146" /></a><img class="noborder" height="1" alt="" src="images/1pixel.png" width="50" />
+			</div>
+   </div>
+</div>
+	</div>
+  </div>

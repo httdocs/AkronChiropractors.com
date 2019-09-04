@@ -1,0 +1,9 @@
+<title><?php include("custom/text_files/1.txt"); ?> <?php include("custom/text_files/set.txt"); ?></title>
+<meta name="description" content="<?php include("custom/text_files/semd1.txt"); ?> <?php include("custom/text_files/1.txt"); ?> <?php include("custom/text_files/semd2.txt"); ?> <?php include("custom/text_files/1.txt"); ?>, <?php include("custom/text_files/3.txt"); ?>">
+<meta name="keywords" content="<?php include("custom/text_files/metakey.txt"); ?>">
+<script type="text/javascript">
+if (screen.width<699) {
+window.location="http://<?PHP echo $_SERVER['HTTP_HOST'] ?><?PHP echo $_SERVER['REQUEST_URI'] ?>m/";
+}
+</script>
+

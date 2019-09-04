@@ -1,0 +1,2 @@
+<div ID="headingtext2";><?php include 'custom/text_files/fs_2a.txt'; ?></div><br>
+<a href="<?php include 'custom/text_files/fs_2b.txt'; ?>"><img border="0" width="300" src="http://free.pagepeeker.com/v2/thumbs.php?size=l&url=<?php include 'custom/text_files/fs_2b.txt'; ?>"></a>

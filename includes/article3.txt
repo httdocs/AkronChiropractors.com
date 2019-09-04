@@ -1,0 +1,23 @@
+<h2 style="font-family: trebuchet ms,helvetica,sans-serif; color: #696969;">Crucial Things You Should Know Before Choosing a Chiropractor in <?php include("custom/text_files/1.txt"); ?></h2>
+
+<img src="images/photo3.jpg" alt="<?php include("custom/text_files/3.txt"); ?>&nbsp;<?php include("custom/text_files/4.txt"); ?>" align="right" style="margin: 0px 0px 20px 30px;" />
+
+<span style="font-family: trebuchet ms,helvetica,sans-serif">
+
+<p>There are many reasons people may choose to see a chiropractor, from asthma to back pain. If you think that you might be able to benefit from chiropractic care, then you owe it to yourself to at least try out this effective treatment option. There are a lot of chiropractors out there to choose from, and they are not all created equal. Before you make that big decision, check out this list of five crucial things you should know before choosing a chiropractor in <?php include("custom/text_files/1.txt"); ?>.</p>
+
+<p>You deserve a free consultation. Any reputable chiropractor will offer a free consultation. Why? Because consultations are a necessary part of making the decision to choose one practitioner over another, and professionals know that. Therefore, chiropractors who are confident in their practice should have no problem inviting you in for a consultative chat.</p>
+
+<p>The importance of digital X-rays. It is important that your chiropractor of choice has the complete story about your back before attempting to adjust it. Many chiropractors offer digital X-rays during the initial visit in order to rule out things like fractures and other conditions or injuries that could stand in the way of your safety and chiropractic care. If you can't provide recent X-rays from a referring physician, then your chiropractor should be able to offer X-rays, if you need them.</p>
+
+<p>Different chiropractors use different techniques. Some chiropractors are strictly hands-on while others prefer instruments, and some use gentle massage while others use methods like joint popping. The chiropractor you choose should use techniques you are comfortable with. Ask before you schedule a session.</p>
+
+<p>Visitation frequency is relative. No two cases are alike, and what may work for one patient may be detrimental to another patient's recovery. Your neighbor may visit the chiropractor once a week, but you may go only every two months. Your chiropractor should be able to recommend a visitation frequency specific to your needs after the consultation.</p>
+
+<p>Your payment options. Chiropractors may charge in a number of ways. Some accept health insurance, some accept cash only, and some allow you to enroll in a flexible payment plan. You should never decide to use a certain chiropractor based solely on pricing, but you should absolutely choose a chiropractor that offers payment options that match your payment ability.</p>
+
+<p>As you can see, there is a lot to consider when deciding which chiropractor is best suited for you and your needs. Keep these things in mind when sizing up your options to make the best possible choice for your health and well being.</p>
+
+</span>
+
+

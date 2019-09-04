@@ -1,0 +1,21 @@
+<h2 style="font-family: trebuchet ms,helvetica,sans-serif; color: #696969;">
+Three Different Types of Chiropractic Care in <?php include("custom/text_files/1.txt"); ?>, <?php include("custom/text_files/3.txt"); ?>
+</h2>
+
+<img src="images/photo2.jpg" alt="<?php include("custom/text_files/4.txt"); ?>&nbsp;<?php include("custom/text_files/2.txt"); ?>" align="right" style="margin: 0px 0px 20px 30px;" />
+
+<span style="font-family: trebuchet ms,helvetica,sans-serif">
+
+<p>Many people think that chiropractic care is only for people who have back problems. However, that is just not true. People visit the chiropractic office for a variety of reasons, <em>many</em> having nothing to do with the back. Vertebral alignments performed by chiropractors relieve the spinal cord of pressure, thereby helping the entire nervous system function effectively. This means that chiropractic care is useful for a wide array of conditions, including asthma, allergies, diabetes, chronic headaches, and more, and that there are also different types of chiropractic care to suit different circumstances. To find out more about chiropractic treatment options, read on about these three different types of chiropractic care:</p>
+
+<p><strong>Relief care.</strong> One of the most common reasons people seek out the services of a chiropractor is for relief, plain and simple. Chiropractic care eases pressure on the spine, and can drastically reduce chronic pain, stiffness, and other forms of general discomfort in the back and connecting tissues, as well as improve the body's ability to recover from injury or illness. People who present to a chiropractor for relief care need an immediate solution, and visits are often frequent.</p>
+
+<p><strong>Corrective care.</strong> Some people suffer from chronic back conditions for an extended period of time without receiving treatment. In cases like this, the spinal cord can become seriously damaged and this damage must be corrected with a therapeutic approach to chiropractic care. It is also important to note that people who have moved past the immediacy of relief care often move on to corrective care.</p>
+
+<p><strong>Maintenance care.</strong> This is sometimes also called wellness care or preventative care, as it is closely associated with the idea of avoiding additional health problems that require more therapeutic and/or immediate treatment. As the name suggests, people who seek chiropractic care for maintenance have already experienced the benefits of extended chiropractic care for either relief or correction. They might have even recovered from an injury and rehabilitated with the help of chiropractic care. This set of patients receives follow-up chiropractic care to maintain the positive effects of the treatment they have already received, as well as to keep the spinal column as strong and flexible as possible so as to prevent further injury.</p>
+
+<p>As you can see, chiropractic treatment is helpful no matter what stage your health condition may be in, from immediate relief to long term preventative care. Consider all of these possibilities when sizing up the value of a good chiropractor.</p>
+
+</span>
+
+

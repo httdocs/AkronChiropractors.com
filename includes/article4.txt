@@ -1,0 +1,21 @@
+<h2 style="font-family: trebuchet ms,helvetica,sans-serif; color: #696969;">
+Chiropractic Spinal Manipulation in the <?php include("custom/text_files/1.txt"); ?> Area
+</h2>
+
+<img src="images/photo4.jpg" alt="<?php include("custom/text_files/4.txt"); ?>" align="right" style="margin: 0px 0px 20px 30px;" />
+
+<span style="font-family: trebuchet ms,helvetica,sans-serif">
+
+<p>If you are experiencing any of a number of common physical ailments, then it is likely your doctor will at some point refer you to a chiropractor for therapeutic treatment. After your initial evaluation at a chiropractic office, the chiropractor will develop a personalized treatment plan for your condition, which will include regular in-office sessions. These sessions may include things like deep tissue massage, acupuncture, traction, and/or cold laser... but they will always include spinal manipulation, because spinal manipulation is the hallmark of chiropractic care. So, exactly what is spinal manipulation, and is it as scary as it sounds? If you are facing the prospect of seeing a chiropractor, then these spinal manipulation basics can help set your mind at ease:</p>
+
+<p><strong>Origins of spinal manipulation.</strong> The process of manipulating the spine for proper alignment can be traced back to the beginning of recorded history. Ancient Egyptian and Chinese texts outline techniques they used to keep the spine in proper form, and even the ancient Greek philosopher and physician Hippocrates touted the positive effects and importance of spinal manipulation in his texts, saying that the spine is associated with many common health ailments. Spinal manipulation was introduced to the American mainstream in 1895 by Doctor Daniel David Palmer. Since that time, its popularity has spread to global proportion.</p>
+
+<p><strong>Spinal manipulation techniques.</strong> High velocity low amplitude (HVLA) thrust is the most common type of spinal manipulation technique. HVLA thrust involves placing pressure on a specific area of the body with the intent of providing a therapeutic effect, and it can be done in a variety of ways. Other spinal manipulation techniques (which may or may not involve HVLA thrust) include the toggle drop, the lumbar roll, release work, and table adjustments. The truth is, ten different patients may be able to describe ten completely different types of care they received at the chiropractic office. Additionally, chiropractors may opt to use instruments to achieve spinal adjustments, and may even put the patient under general anesthesia for more complicated sessions.</p>
+
+<p><strong>How spinal manipulation works.</strong> The purpose of spinal manipulation is to properly align the vertebrae in a way that frees up space between the spine's discs. When there is ample space between the discs, irritation and swelling may go down and, in turn, the nerves encased in the spine receive less pressure (which they register as pain) and are better able to communicate effectively with the body's nervous system.</p>
+
+<p>As you can see, spinal manipulation is nothing to be afraid of. It may be unfamiliar to you, but it is an ages-old technique that is time-proven to provide effective results.</p>
+
+</span>
+
+

@@ -1,0 +1,23 @@
+<table class="bg-color" style="width: 350px; border-spacing:10px; border-radius:10px; box-shadow: 0px 0px 5px 0px #888888;">
+<tbody>
+<tr>
+<td>
+<p style="text-align: center">
+<span style="font-family: trebuchet ms,helvetica,sans-serif"><strong><?php include("custom/text_files/7.txt"); ?></strong><br />
+<?php include("custom/text_files/5.txt"); ?><br />
+<?php include("custom/text_files/1.txt"); ?>, <?php include("custom/text_files/3.txt"); ?> <?php include("custom/text_files/8.txt"); ?><br />
+<strong><span style="color: #008000; font-size: 20px"><?php include("custom/text_files/6.txt"); ?></span></strong>
+</span>
+</p>
+</td>
+<td>
+<img style="border-radius:10px; border-color:#959595" border="1" alt="owner" class="aligncenter" height="100" width="100" src="images/people/<?php include("custom/text_files/19.txt"); ?>" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<span style="font-family: trebuchet ms,helvetica,sans-serif"><a href="<?php include("custom/text_files/21.txt"); ?>" target="_blank"><?php include("custom/text_files/21.txt"); ?></a></span>
+</td>
+</tr>
+</tbody>
+</table>

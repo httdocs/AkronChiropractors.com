@@ -1,0 +1,6 @@
+<div id="smedia">
+<a href="<?php include 'custom/text_files/18.txt'; ?>" target="_blank"><img alt="" src="images/social/<?php include 'custom/text_files/17.txt'; ?>/yt.png" class="noborder"></a>
+<a href="<?php include 'custom/text_files/12.txt'; ?>" target="_blank"><img alt="" src="images/social/<?php include 'custom/text_files/11.txt'; ?>/gplus.png" class="noborder"></a>
+<a href="<?php include 'custom/text_files/14.txt'; ?>" target="_blank"><img alt="" src="images/social/<?php include 'custom/text_files/13.txt'; ?>/fb.png" class="noborder"></a>
+<a href="<?php include 'custom/text_files/16.txt'; ?>" target="_blank"><img alt="" src="images/social/<?php include 'custom/text_files/15.txt'; ?>/t.png" class="noborder"></a>
+</div>

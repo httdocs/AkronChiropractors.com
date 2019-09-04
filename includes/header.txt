@@ -1,0 +1,15 @@
+<div id="headerfill">
+	<div id="header">
+		<div ID="shell">
+		<div ID="shell2">
+				<a href="index.php"><img class="noborder" height="37" width="37" src="images/logos/<?php include 'custom/text_files/logo.txt'; ?>" alt="<?php include("custom/text_files/4.txt"); ?>&nbsp;<?php include("custom/text_files/1.txt"); ?>"></a>
+			<div ID="logo2"><a href="index.php" style="text-decoration: none"><span style="font-size: 20px; font-family: arial,helvetica,sans-serif; color: #ffffff"><strong><?php include("custom/text_files/4.txt"); ?></strong></span></a><img height="1" src="images/1pixel.png" alt="" width="100">
+				</div>
+				</div>
+			<div ID="shell3">
+				<span style="font-family: arial,helvetica,sans-serif; text-shadow: 2px 2px 2px rgba(0,0,0,0.7)"><a href="index.php" style="text-decoration: none"><span style="color: #ffffff; font-size: 14px;"><img class="noborder" height="1" alt="" src="images/1pixel.png" width="50" />HOME</span></a><img class="noborder" height="1" alt="" src="images/1pixel.png" width="58" /><a href="blog.php" style="text-decoration: none"><span style="color: #ffffff; font-size: 14px">Blog</span></a><img class="noborder" alt="" height="1" src="images/1pixel.png" width="58" /><a href="about.php" style="text-decoration: none"><span style="color: #ffffff; font-size: 14px">About</span></a><img alt="" class="noborder" height="1" src="images/1pixel.png" width="58" /><a href="contact.php" style="text-decoration: none"><span style="color: #ffffff; font-size: 14px">Contact</span></a></span>
+				</div>
+		</div>
+		</div>
+		</div>
+		

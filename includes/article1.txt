@@ -1,0 +1,42 @@
+<h2 style="text-align: center; font-family: trebuchet ms,helvetica,sans-serif; color: #696969">
+Free Guide Reveals 7 Things You Must Know Before<br />Going To a Chiropractor in <?php include("custom/text_files/1.txt"); ?>
+</h2>
+
+<p style="font-family: trebuchet ms,helvetica,sans-serif;">
+This Guide is available to you free for a limited time. You'll learn everything you need to know about how to find the right Chiropractor for you, in <?php include("custom/text_files/1.txt"); ?>, <?php include("custom/text_files/2.txt"); ?>, including:
+</p>
+
+<table class="aligncenter" style="width: 100%; padding:0; border-spacing:0;">
+ <tbody>
+  <tr>
+   <td>
+    <ul style="font-family: trebuchet ms,helvetica,sans-serif;">
+     <strong>
+      <li>How Safe is Chiropractic Treatment?</li>
+      <li>Does a Chiropractor Have the Same Rules as a Doctor?</li>
+      <li>Determining When You Need to See a Chiropractor</li>
+      <li>How Much Should I Expect to Pay?</li>
+      <li>How to Find the Right Chiropractor for Your Situation</li>
+      <li>What to Expect at Your First Office Visit</li>
+      <li>Other Important Questions to Ask</li>
+      <li>Plus much more</li>
+      </strong>
+      </ul>
+      </td>
+      <td>
+      
+<p style="text-align: center; font-family: trebuchet ms,helvetica,sans-serif;">
+Courtesy of:
+</p>
+
+<?php include 'includes/businessbox.txt'; ?>
+	 </td>
+	</tr>
+ </tbody>
+</table>
+
+<p style="font-family: trebuchet ms,helvetica,sans-serif;">
+
+This guide was written by an unbiased, professional writer who is not associated with any particular Chiropractor. This free guide will give you the confidence and guidance you need when not only searching for the best information but also the all-important questions to ask so you can avoid potential heartache and frustration.
+
+</p>

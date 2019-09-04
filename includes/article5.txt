@@ -1,0 +1,25 @@
+<h2 style="font-family: trebuchet ms,helvetica,sans-serif; color: #696969;">
+Chiropractic Care Philosophy in <?php include("custom/text_files/1.txt"); ?>
+</h2>
+
+<img src="images/photo5.jpg" alt="<?PHP echo $_SERVER['HTTP_HOST'] ?>" align="right" style="margin: 0px 0px 20px 30px;" />
+
+<span style="font-family: trebuchet ms,helvetica,sans-serif">
+
+<p>Although the chiropractic field has many similarities to the traditional medical field, there are also a lot of differences. Chiropractic practice is based on philosophy, and it is that philosophy that guides how chiropractors treat their patients and what overall outcomes are expected of patients. If you are interested in understand just what, exactly, makes chiropractic special, then here are some highlights of chiropractic care philosophy:</p>
+
+<p><strong>Holistic healing.</strong> Chiropractors do not prescribe medications. Instead, they often recommend their patients take certain dietary supplements and vitamins in order to improve troubling conditions.</p>
+
+<p><strong>Total body approach.</strong> Because chiropractors manipulate the spine in order to affect a multitude of health conditions all over the body, they understand the importance of taking care of the entire body to reduce the negative effects of even a localized injury or discomfort. This emphasis on the connectedness of the body means that chiropractors encourage patients to care for themselves in every aspect - mental and physical.</p>
+
+<p><strong>Well-rounded care.</strong> Not only do chiropractors align your spine and adjust your vertebrae, but they also consult you on how to improve your health and wellness using a variety of other treatments and methods. These include dietary recommendations, referrals to therapists, deep tissue massage, acupuncture, and more. When you see a chiropractor, you will get advice on a multitude of treatments and resources available to you outside of the chiropractic office.</p>
+
+<p><strong>Treating the source.</strong> Chiropractic philosophy focuses on going right to the source of a problem, and chiropractic care involves treating the cause, rather than the symptoms. Before your first session, your chiropractor will take a thorough medical history and give you a complete health examination in order to identify underlying causes of your condition so they may be treated.</p>
+
+<p><strong>The great divide.</strong> Not all chiropractors choose to administer the same types of treatments, or use the same methods for spinal manipulation. For that reason, chiropractors are often divided into between two groups: "straight" chiropractors or "mixed" chiropractors. Straight chiropractors are conservative in their approach to providing chiropractic care, focusing their treatment on spinal manipulation only. They are less likely to incorporate other, alternative forms of medicine into their treatment plans. Mixed chiropractors, on the other hand, tend to be more interested in modern research and evidence, and make it a point to incorporate new alternative medicine discoveries and chiropractic techniques into their patients' treatment plans.</p>
+
+<p>As you can see, chiropractic care philosophy is unique from conventional medicine in a number of ways. If you are looking for a safe and natural approach to heal your entire body from the inside out, then chiropractic care may be for you.</p>
+
+</span>
+
+
